@@ -2,7 +2,7 @@
 
 This is my 
 Personal Portfolio
-which include my info and skills education.
+which include my personal info, skills and education.
 ..
 .
 .
